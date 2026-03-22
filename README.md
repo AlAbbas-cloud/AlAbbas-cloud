@@ -1,4 +1,4 @@
-# Hi, I'm Ali Abbas 👋  
+# Hi, I'm Ali Abbas 
 ### Junior Cybersecurity Analyst | SOC Analyst in Training | Hands‑On Learner
 
 I’m a Junior Cybersecurity Analyst with practical experience across SIEM monitoring, log analysis, endpoint defence, and identity security fundamentals.  
@@ -91,6 +91,18 @@ A complete end‑to‑end project demonstrating:
 - TryHackMe SOC Level 1 (In Progress)
 
 ---
+
+## TryHackMe Progress
+
+I actively build my defensive and offensive security skills through hands‑on labs on TryHackMe.
+
+**Advent of Cyber 2025** -- Completing Advent of Cyber 2025 Badge
+
+![Advent of Cyber 2025](https://assets.tryhackme.com/img/badges/advent-of-cyber-2025.png)
+
+**Wireshark** -- Competent with Wireshark & Packet Analysis Badge
+
+![WireShark](https://assets.tryhackme.com/img/badges/wireshark.png)
 
 ## My Background
 
