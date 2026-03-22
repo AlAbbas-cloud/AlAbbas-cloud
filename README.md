@@ -28,6 +28,12 @@ I actively build my defensive and offensive security skills through hands‑on l
 
 [![WireShark](https://assets.tryhackme.com/img/badges/wireshark.png)](https://tryhackme.com/mobilediagnostic/badges/wireshark?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=67e662a11685f0d9519e0519)
 
+### Recent Learning Paths
+- SOC Apprentice — Explored how a SOC team operates from inside  
+- OWASP Top 10 — Understanding every OWASP vulnerability  
+- Advent of Cyber 2025 — Completing Advent of Cyber 2025 Badge  
+- Wireshark — Competent with Wireshark & Packet Analysis Badge
+  
 ## Cybersecurity Projects
 
 ### **SQL & Splunk Analysis Project**
@@ -132,4 +138,4 @@ These skills transfer directly into SOC work.
 - **Email:** mobilediagnosticcentre@gmail.com  
 - **Location:** Karalee, QLD, Australia  
 
-Thanks for visiting — feel free to explore my projects or reach out!
+Thanks for visiting - feel free to explore my projects or reach out!
