@@ -23,7 +23,7 @@ A complete end‑to‑end project demonstrating:
 
 ---
 
-## 🛠️ Skills & Tools
+## Skills & Tools
 
 ### **Security Operations**
 - SIEM monitoring (Splunk, Wazuh)  
@@ -74,7 +74,7 @@ A complete end‑to‑end project demonstrating:
 
 ---
 
-## 🎯 What I’m Working On
+## What I’m Working On
 - Wireless security lab (WEP/WPA cracking)  
 - SOC playbook development  
 - More TryHackMe rooms  
@@ -108,7 +108,7 @@ These skills transfer directly into SOC work.
 
 ## Connect With Me
 
-- **LinkedIn:** (https://www.linkedin.com/in/ali-abbas-895bb8268/)  
+- **LinkedIn:** https://www.linkedin.com/in/ali-abbas-895bb8268/  
 - **Email:** mobilediagnosticcentre@gmail.com  
 - **Location:** Karalee, QLD, Australia  
 
