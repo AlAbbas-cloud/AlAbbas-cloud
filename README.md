@@ -98,11 +98,11 @@ I actively build my defensive and offensive security skills through hands‑on l
 
 **Advent of Cyber 2025** -- Completing Advent of Cyber 2025 Badge
 
-![Advent of Cyber 2025](https://assets.tryhackme.com/img/badges/advent-of-cyber-2025.png)
+[![Advent of Cyber 2025](https://assets.tryhackme.com/img/badges/advent-of-cyber-2025.png)](https://tryhackme.com/mobilediagnostic/badges/advent-of-cyber-2025?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=67e662a11685f0d9519e0519)
 
 **Wireshark** -- Competent with Wireshark & Packet Analysis Badge
 
-![WireShark](https://assets.tryhackme.com/img/badges/wireshark.png)
+[![WireShark](https://assets.tryhackme.com/img/badges/wireshark.png)](https://tryhackme.com/mobilediagnostic/badges/wireshark?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=67e662a11685f0d9519e0519)
 
 ## My Background
 
