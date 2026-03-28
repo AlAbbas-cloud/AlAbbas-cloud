@@ -187,3 +187,5 @@ These skills transfer directly into SOC work.
 - **Location:** Karalee, QLD, Australia  
 
 Thanks for visiting - feel free to explore my projects or reach out!
+
+Always open to learning, collaboration, and new opportunities in cyber security.
