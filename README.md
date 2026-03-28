@@ -53,6 +53,19 @@ A complete end‑to‑end project demonstrating:
 
 📁 **Repo:** [sql-and-splunk-analysis](https://github.com/AlAbbas-cloud/sql-and-splunk-analysis)
 
+### Wireless Security Lab — WEP & WPA Cracking
+
+A hands‑on wireless security project demonstrating:
+
+- WEP cracking using automated packet capture  
+- WPA handshake capture and analysis  
+- Deauthentication attacks in a controlled lab  
+- Virtual AP + client setup using WiFi‑Emulator  
+- Defensive recommendations and WLAN hardening  
+- Ethical wireless testing practices  
+
+📁 **Repo:** [wireless-security-lab](https://github.com/AlAbbas-cloud/wireless-security-lab)
+
 ---
 
 ## Skills & Tools
