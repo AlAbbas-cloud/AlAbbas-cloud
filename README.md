@@ -53,7 +53,7 @@ A complete end‑to‑end project demonstrating:
 
 📁 **Repo:** [sql-and-splunk-analysis](https://github.com/AlAbbas-cloud/sql-and-splunk-analysis)
 
-### Wireless Security Lab — WEP & WPA Cracking
+### Wireless Security Lab - WEP & WPA Cracking
 
 A hands‑on wireless security project demonstrating:
 
