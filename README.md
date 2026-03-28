@@ -66,6 +66,20 @@ A hands‑on wireless security project demonstrating:
 
 📁 **Repo:** [wireless-security-lab](https://github.com/AlAbbas-cloud/wireless-security-lab)
 
+### Network Concepts & Protocols Lab
+
+A foundational networking and security project covering:
+
+- OSI & TCP/IP communication models  
+- Protocol vulnerabilities (HTTP, FTP, SQL injection)  
+- Security policy review and recommendations  
+- IPv4/IPv6 addressing, binary & hex conversions  
+- Network devices and testing tools  
+- Research on real-world cyber attacks  
+- Two Packet Tracer labs (network design + SMB file sharing)
+
+**Repo:** [network-concepts-and-protocols-lab](https://github.com/AlAbbas-cloud/network-concepts-and-protocols-lab)
+
 ---
 
 ## Skills & Tools
