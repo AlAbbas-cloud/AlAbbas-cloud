@@ -133,11 +133,26 @@ A foundational networking and security project covering:
 
 ---
 
-## What I’m Working On
-- Wireless security lab (WEP/WPA cracking)  
-- SOC playbook development  
-- More TryHackMe rooms  
-- Strengthening scripting fundamentals (Bash, PowerShell, Python basics)  
+## What I'm Learning Right Now
+
+- Network fundamentals & secure protocol usage  
+- SOC workflows and log analysis  
+- Wireless security and attack simulation  
+- Packet Tracer network design  
+- Binary/hex conversions and addressing  
+- Practical cyber security through real labs  
+
+---
+
+## Tools & Technologies
+
+- **Kali Linux**  
+- **Cisco Packet Tracer**  
+- **Splunk**  
+- **Wireshark**  
+- **SQL**  
+- **Linux CLI**  
+- **Wifite / WiFi‑Emulator**  
 
 ---
 
