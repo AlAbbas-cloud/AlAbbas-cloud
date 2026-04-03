@@ -39,7 +39,9 @@ I actively build my defensive and offensive security skills through hands‑on l
 - OWASP Top 10 — Understanding every OWASP vulnerability  
 - Advent of Cyber 2025 — Completing Advent of Cyber 2025 Badge  
 - Wireshark — Competent with Wireshark & Packet Analysis Badge
-  
+
+---
+
 ## Cybersecurity Projects
 
 ### **SQL & Splunk Analysis Project**
@@ -79,6 +81,12 @@ A foundational networking and security project covering:
 - Two Packet Tracer labs (network design + SMB file sharing)
 
 **Repo:** [network-concepts-and-protocols-lab](https://github.com/AlAbbas-cloud/network-concepts-and-protocols-lab)
+
+### Computer Fingerprint Collector (Python Automation)
+A cross‑platform automation tool that collects detailed system and network information from Windows and Linux machines.
+Includes defensive coding, data validation, CSV reporting, debugging documentation, and a full project architecture diagram.
+
+📁 Repo: [computer-fingerprint-collector](https://github.com/AlAbbas-cloud/computer-fingerprint-collector)
 
 ---
 
