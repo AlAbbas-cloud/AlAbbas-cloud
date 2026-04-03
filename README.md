@@ -83,8 +83,12 @@ A foundational networking and security project covering:
 **Repo:** [network-concepts-and-protocols-lab](https://github.com/AlAbbas-cloud/network-concepts-and-protocols-lab)
 
 ### Computer Fingerprint Collector (Python Automation)
-A cross‑platform automation tool that collects detailed system and network information from Windows and Linux machines.
-Includes defensive coding, data validation, CSV reporting, debugging documentation, and a full project architecture diagram.
+- Cross‑platform automation tool for Windows and Linux  
+- Collects detailed system and network information  
+- Includes defensive coding and data validation  
+- Generates CSV reports compatible with Excel  
+- Contains full debugging documentation  
+- Includes a complete project architecture diagram  
 
 📁 Repo: [computer-fingerprint-collector](https://github.com/AlAbbas-cloud/computer-fingerprint-collector)
 
